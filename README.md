@@ -97,7 +97,7 @@ python app.py
 
 ## 📸 Screenshots
 
-*(Add screenshots here for better presentation)*
+[*(Add screenshots here for better presentation)*](https://github.com/jay3425/speech-assistant-pro/blob/main/Screenshot%20(761).png)
 
 ---
 
